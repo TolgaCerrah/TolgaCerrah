@@ -71,7 +71,7 @@
 
 ### 📫 Let's Connect
 
-- 📩 Email: [tolga@tgacerrah.com](mailto:tolga@tgacerrah.com)  
+- 📩 Email: [tolgacerrah5561@gmail.com](mailto:tolgacerrah5561@gmail.com) 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tolga-cerrah-tga/)  
 - 📸 [Instagram](https://www.instagram.com/tolgacerrah/)  
 - 🎥 [YouTube](https://www.youtube.com/c/TGATolgaCerrah)  
