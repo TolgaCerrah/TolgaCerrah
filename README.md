@@ -1,3 +1,5 @@
+[![Web Geliştirme](https://www.tgacerrah.com/wp-content/uploads/2022/10/Web-Gelistirme-2.png)](https://www.tgacerrah.com/wp-content/uploads/2022/10/Web-Gelistirme-2.png)
+
 <h1 align="center">Hi, I'm Tolga Cerrah 👋!</h1>
 <p align="center">
   <i>A passionate developer with a background in web development, e-commerce, robotics, and digital marketing.</i><br/>
