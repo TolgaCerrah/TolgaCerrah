@@ -71,13 +71,30 @@
 
 ### 📫 Let's Connect
 
-- 📩 Email: [tolgacerrah5561@gmail.com](mailto:tolgacerrah5561@gmail.com) 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tolga-cerrah-tga/)  
-- 📸 [Instagram](https://www.instagram.com/tolgacerrah/)  
-- 🎥 [YouTube](https://www.youtube.com/c/TGATolgaCerrah)  
-- 🌐 [Website](https://www.tgacerrah.com/)  
-- 🛒 [E-Commerce Site](https://www.tospikmarket.com/)  
-- 🏢 [Corporate Site](https://verivizyon.com.tr/)
+<p align="left">
+  <a href="mailto:tolgacerrah5561@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tolga-cerrah-tga/">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/tolgacerrah/">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
+  </a>
+  <a href="https://www.youtube.com/c/TGATolgaCerrah">
+    <img src="https://img.icons8.com/fluency/48/youtube-play.png" alt="YouTube"/>
+  </a>
+  <a href="https://www.tgacerrah.com/">
+    <img src="https://img.icons8.com/fluency/48/domain.png" alt="Website"/>
+  </a>
+  <a href="https://www.tospikmarket.com/">
+    <img src="https://img.icons8.com/fluency/48/shopping-cart.png" alt="E-Commerce"/>
+  </a>
+  <a href="https://verivizyon.com.tr/">
+    <img src="https://img.icons8.com/fluency/48/company.png" alt="Corporate"/>
+  </a>
+</p>
+
 
 ---
 
